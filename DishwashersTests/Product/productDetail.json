@@ -1,0 +1,521 @@
+{
+    "productId": "3244905",
+    "bundleProducts": [],
+    "deliveries": [
+                   {
+                   "deliveryType": "UK",
+                   "options": [
+                               {
+                               "id": "26",
+                               "price": "0.00",
+                               "currency": "GBP",
+                               "shortDescription": "Delivery from 3 working days (lead time and available slots vary by postcode; exclusions apply)",
+                               "standardDescription": "Delivery from 3 working days (lead time and available slots vary by postcode; exclusions apply)",
+                               "date": "",
+                               "dateMessage": "",
+                               "trialMessage": "",
+                               "isApprovedSupplier": false,
+                               "leadTime": 0,
+                               "cutOffTime": 1
+                               },
+                               {
+                               "id": "202",
+                               "price": "19.95",
+                               "currency": "GBP",
+                               "shortDescription": "Express UK Delivery",
+                               "standardDescription": "Next day delivery to selected areas",
+                               "date": "",
+                               "dateMessage": "",
+                               "trialMessage": "",
+                               "isApprovedSupplier": false,
+                               "leadTime": 2,
+                               "cutOffTime": 19
+                               }
+                               ]
+                   }
+                   ],
+    "details": {
+        "returns": "<div class=\"par parsys\">\n <div class=\"cms30r section\">\n  <div class=\"free-html\"> \n   <style>#cq-returns-info p a{padding:0;} #cq-returns-info h2{padding:18px 0 16px 0; border-bottom: 1px solid #bfbdb7; font-size: 18px; font-weight: bold;} #cq-returns-info p{padding:0 0 6px;}\n   </style>\n   <div id=\"cq-returns-info\"> \n    <h2>Returns</h2> \n    <p>If you’ve changed your mind about keeping your purchase, please return it in its original condition with proof of purchase and we’ll exchange or refund it. Unless faulty, this should be within 35 days of receiving your order. By original condition, we’d expect this to mean that you’ve kept packaging and labels, and that the item is undamaged and unused.</p> \n    <p>You can return for free in the UK via John Lewis and Waitrose Shops, Royal Mail, Collect+ or MyHermes. If you need to arrange collection of large or heavy items, call us on <strong>03456 049 049</strong>. For international returns queries, call us on <strong>+44 1698 545 454</strong></p> \n    <p>You’ll find returns information on your delivery note. Exceptions apply to certain products - <a href=\"/customer-services/information-about-ordering-and-returning-products#refund\">find out more about our refund policy</a></p>\n   </div>\n  </div>\n </div>\n</div>",
+        "returnsHeadline": "<div class=\"par parsys\">\n <div class=\"cms30r section\">\n  <div class=\"free-html\"> \n   <style type=\"text/css\">.free-html a.more-details {   font-weight:normal;}}.returns-info { float:left;}.returns-info h2 {float:left;padding-right:10px;}.returns-info-link { padding:4px 0 15px 0;}\n   </style>\n   <div class=\"returns-info\">\n    <h2><a href=\"#tabinfo-returns\" class=\"tab-link\">Returns -</a></h2>\n    <div class=\"returns-info-link\">\n     <a href=\"#tabinfo-returns\" class=\"more-details \">See more details</a>\n    </div>\n   </div>\n  </div>\n </div>\n</div>",
+        "termsAndConditions": "",
+        "productInformation": "<p>Equipped with a variety of advanced features inside a sleek, integrated design, the S513K60X0G dishwasher from Neff will make doing the dishes easier than ever.</p>\r\r<p><strong>Energy efficient</strong><br>\rAwarded an excellent A++ for energy efficiency, you can rely on the S513K60X0G to help you save on your energy bills while keeping a green home.</p>\r\r<p><strong>DosageAssist</strong><br>\rThis useful function makes sure your detergent is completely dissolved for a more effective wash by releasing it into a special tray on top of the basket and mixing it into the cycle.</p>\r\r<p><strong>AquaSensor</strong><br>\rSaving water and energy, this feature automatically assesses how much water is needed, even during the rinsing stage, and will only use what's necessary.</p>\r\r<p><strong>Flexible loading</strong><br>\rThe S513K60X0G offers total flexibility with Neff's Flex basket and Vario drawer system. The top basket can be adjusted between 3 height positions and contains 2 foldable plate racks and 2 foldable cup shelves. Similarly, the bottom basket holds 4 foldable plate racks, while the Vario drawer offers extra storage on a third level.</p>\r\r<p><strong>Additional features and programmes:</strong><br>\r<ul>\r<li>Chef 70°C pro programme</li>\r<li>Aqua Stop</li>\r<li>Vario Speed Plus</li>\r<li>InfoLight status projection</li>\r\r<li>Efficient Drive</li>\r<li>Detergent Aware</li></ul></p>\r\r",
+        "features": [
+                     {
+                     "groupName": "",
+                     "attributes": [
+                                    {
+                                    "id": "attr10139380714",
+                                    "name": "Salt Level Indicator",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380715",
+                                    "name": "Dimensions",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "H81.5 x W60 x D55cm"
+                                    },
+                                    {
+                                    "id": "attr10139380716",
+                                    "name": "Type",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Integrated"
+                                    },
+                                    {
+                                    "id": "attr10139380717",
+                                    "name": "Wash performance",
+                                    "toolTip": "Graded on performance A - G, with A being the highest grade. The higher the grade the more energy efficient the appliance.",
+                                    "uom": "",
+                                    "value": "A"
+                                    },
+                                    {
+                                    "id": "attr10139380718",
+                                    "name": "Manufacturer Part Number (MPN)",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "S513K60X0G"
+                                    },
+                                    {
+                                    "id": "attr10139380719",
+                                    "name": "Noise Level",
+                                    "toolTip": "How noisy, in decibels, the machine is. The lower the dB, the quieter the appliance",
+                                    "uom": "",
+                                    "value": "48dB"
+                                    },
+                                    {
+                                    "id": "attr10139380720",
+                                    "name": "Model name / number",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "S513K60X0G Integrated Dishwasher"
+                                    },
+                                    {
+                                    "id": "attr10139380721",
+                                    "name": "Rinse Aid Indicator",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380724",
+                                    "name": "Water Consumption Per Standard Cycle",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "10L"
+                                    },
+                                    {
+                                    "id": "attr10139380725",
+                                    "name": "Time remaining indicator",
+                                    "toolTip": "Tells you how long the programme's got to go",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380726",
+                                    "name": "Energy Consumption Per Standard Cycle",
+                                    "toolTip": "Based on the drying cycle of the standard cotton programme at full load. Actual energy consumption per cycle will depend on how the appliance is used.",
+                                    "uom": "",
+                                    "value": "0.9kWh/cycle"
+                                    },
+                                    {
+                                    "id": "attr10139380728",
+                                    "name": "Adjustable racking",
+                                    "toolTip": "Lets you move the racking around to fit large or awkward items",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380729",
+                                    "name": "Digital display",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "NO"
+                                    },
+                                    {
+                                    "id": "attr10139380730",
+                                    "name": "Delicate Wash",
+                                    "toolTip": "This wash cycle provides a gentle wash for delicate items",
+                                    "uom": "",
+                                    "value": "NO"
+                                    },
+                                    {
+                                    "id": "attr10139380731",
+                                    "name": "Program Sequence Indicator",
+                                    "toolTip": "Tells you the progress of your washing/drying cycle",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380732",
+                                    "name": "Child lock",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "NO"
+                                    },
+                                    {
+                                    "id": "attr10139380733",
+                                    "name": "Cutlery Holder",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Tray"
+                                    },
+                                    {
+                                    "id": "attr10139380734",
+                                    "name": "Delay Start",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Yes"
+                                    },
+                                    {
+                                    "id": "attr10139380735",
+                                    "name": "Estimated Annual Energy Consumption",
+                                    "toolTip": "How much electricity the item would use over a year",
+                                    "uom": "",
+                                    "value": "262kWh"
+                                    },
+                                    {
+                                    "id": "attr10139380737",
+                                    "name": "Place Settings",
+                                    "toolTip": "A complete set of items provided for one person at a meal  ",
+                                    "uom": "",
+                                    "value": "13"
+                                    },
+                                    {
+                                    "id": "attr10139380738",
+                                    "name": "Dishwasher Size",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Full"
+                                    },
+                                    {
+                                    "id": "attr10139380739",
+                                    "name": "Energy Rating ",
+                                    "toolTip": "Graded on performance, from A+++ to G, with A+++ being the highest rating. Higher ratings mean better energy efficiency",
+                                    "uom": "",
+                                    "value": "A++"
+                                    },
+                                    {
+                                    "id": "attr10139380740",
+                                    "name": "Brand",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Neff"
+                                    },
+                                    {
+                                    "id": "attr10139380742",
+                                    "name": "Overflow protection",
+                                    "toolTip": "An anti-flood device prevents the machine from being damaged by flooding from the inlet pipe",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380744",
+                                    "name": "Drying performance",
+                                    "toolTip": "Graded on performance A - G, with A being the highest grade",
+                                    "uom": "",
+                                    "value": "A"
+                                    },
+                                    {
+                                    "id": "attr10139380745",
+                                    "name": "Automatic Load Adjustment",
+                                    "toolTip": "Automatically adjusts water level for a smaller load, thus saving time and money",
+                                    "uom": "",
+                                    "value": "NO"
+                                    },
+                                    {
+                                    "id": "attr10139380746",
+                                    "name": "Quick wash",
+                                    "toolTip": "Speedy programme when you need items cleaned quickly",
+                                    "uom": "",
+                                    "value": "YES"
+                                    },
+                                    {
+                                    "id": "attr10139380747",
+                                    "name": "Drying System",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "Residual Heat"
+                                    },
+                                    {
+                                    "id": "attr10139380748",
+                                    "name": "Number of Programs/Settings",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "6"
+                                    },
+                                    {
+                                    "id": "attr10139380749",
+                                    "name": "Estimated Annual Water Consumption",
+                                    "toolTip": "The amount of water used in litres per year, based on 220 standard washing cycles for cotton programs at 60°C and 40°C at full and partial load. Actual water consumption will depend on how the appliance is used.",
+                                    "uom": "",
+                                    "value": "2800L/year"
+                                    },
+                                    {
+                                    "id": "attr10139380750",
+                                    "name": "Quiet Mark",
+                                    "toolTip": "",
+                                    "uom": "",
+                                    "value": "NO"
+                                    }
+                                    ]
+                     }
+                     ],
+        "careGuide": [],
+        "featuredArticles": [],
+        "editorsNotes": "",
+        "buyingGuides": [
+                         {
+                         "title": "Dishwashers Buying Guide",
+                         "image": "//johnlewis.scene7.com/is/image/JohnLewis/electrical_med_icon?",
+                         "linkUrl": "https://www.johnlewis.com/buying-guides/dishwashers-buying-guide",
+                         "linkText": "Dishwashers Buying Guide",
+                         "longDescription": "Wave farewell to the washing up with your new friend in the kitchen"
+                         },
+                         {
+                         "title": "Built-in Appliances Buying Guide",
+                         "image": "//johnlewis.scene7.com/is/image/JohnLewis/electrical_med_icon?",
+                         "linkUrl": "https://www.johnlewis.com/buying-guides/built-in-appliances-buying-guide",
+                         "linkText": "Built-in Appliances Buying Guide",
+                         "longDescription": "Built-in (or integrated) washing machines, washer dryers and dishwashers offer a sleek and unobtrusive look"
+                         }
+                         ],
+        "sizeGuides": [],
+        "weLikeItBecause": ""
+    },
+    "deliverySummary": [
+                        {
+                        "deliveryType": "UK",
+                        "title": "UK delivery",
+                        "price": "0.00",
+                        "currency": "GBP",
+                        "summary": "Delivery from 3 working days (lead time and available slots vary by postcode; exclusions apply)",
+                        "trialMessage": ""
+                        }
+                        ],
+    "emailMeWhenAvailable": true,
+    "skus": [
+             {
+             "id": "236931072",
+             "skuTitle": "Neff S513K60X0G Integrated Dishwasher",
+             "shortSkuTitle": "",
+             "color": "",
+             "size": "",
+             "sizeHeadline": "",
+             "swatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/236931072?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+             "availability": {
+             "stockLevel": 675,
+             "availabilityStatus": "INSTOCK",
+             "message": "In stock",
+             "quantityLimit": 5
+             },
+             "price": {
+             "was": "",
+             "then1": "",
+             "then2": "",
+             "now": "429.00",
+             "uom": "",
+             "currency": "GBP"
+             },
+             "code": "88701308",
+             "leadTime": "",
+             "d2cDeliveryLeadTime": "",
+             "media": {
+             "images": {
+             "altText": "BuyNeff S513K60X0G Integrated Dishwasher Online at johnlewis.com",
+             "urls": [
+                      "//johnlewis.scene7.com/is/image/JohnLewis/236931072?",
+                      "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt1?",
+                      "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt10?",
+                      "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt2?",
+                      "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt3?"
+                      ]
+             },
+             "360images": {
+             "swfUrl": "//johnlewis.scene7.com/is/content/JohnLewis/360-degree-view",
+             "urls": []
+             }
+             },
+             "brandName": "Neff",
+             "unitPriceInfo": {},
+             "priceBand": "",
+             "dynamicAttributes": {
+             "manufacturerpartnumbermpn": "S513K60X0G",
+             "modelnamenumber": "S513K60X0G Integrated Dishwasher"
+             }
+             }
+             ],
+    "title": "Neff S513K60X0G Integrated Dishwasher",
+    "defaultSku": "236931072",
+    "storeOnly": false,
+    "type": "standard",
+    "ageRestriction": 0,
+    "seoURL": "/neff-s513k60x0g-integrated-dishwasher/p3244905",
+    "isFBL": false,
+    "numberOfReviews": 32,
+    "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "429.00",
+        "uom": "",
+        "currency": "GBP"
+    },
+    "code": "88701308",
+    "specialOffers": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+            "customSpecialOfferId": "10139100249",
+            "imageURL": "",
+            "linkText": "",
+            "linkURL": "",
+            "longDescription": "",
+            "promoImageName": "",
+            "siteDisplayName": "Save £50 until 10.07.18 (price includes saving)"
+        }
+    },
+    "displaySpecialOffer": "Save £50 until 10.07.18 (price includes saving)",
+    "setDetails": {},
+    "templateType": "media-epic-prodtemplate",
+    "priceBands": [],
+    "legs": [],
+    "swatchCategoryType": "",
+    "deliveryFulfilledBy": "greenVanFleet",
+    "additionalServices": {
+        "includedServices": [
+                             "2 year guarantee included"
+                             ],
+        "optionalServices": [
+                             {
+                             "id": "233568687",
+                             "associatedProductId": "1465506",
+                             "title": "5 years Added Care for your home appliance (includes guarantee period)",
+                             "description": "All electrical products you buy from us are guaranteed for a minimum of 2 years, at no extra cost. With Added Care, you'll enjoy the same benefits for a period of up to 5 years, while also adding further benefits not included in the original guarantee.",
+                             "price": "100.00",
+                             "currency": "GBP",
+                             "orderOnSite": 1,
+                             "type": "ADDED_WARRANTY",
+                             "url": "/our-services/more-about-added-care"
+                             },
+                             {
+                             "id": "DMS14",
+                             "associatedProductId": "DMS14",
+                             "title": "Dishwasher Disposal",
+                             "description": "<p>The charge for this service includes removal and disposal of your old appliance for reuse or recycling. Before we arrive to collect it, please drain your old appliance, and if you aren't using our installation service for your new machine, disconnect it too.</p>",
+                             "price": "15.00",
+                             "currency": "GBP",
+                             "orderOnSite": 2,
+                             "type": "DBS",
+                             "url": ""
+                             },
+                             {
+                             "id": "DMS3902",
+                             "associatedProductId": "DMS3902",
+                             "title": "Integrated Dishwasher Installation",
+                             "description": "<p>The charge for this service includes:</p><ul>\n<li>Connection of the appliance to an existing water connection point that is within 1 metre of installation location.</li>\n<li>Connection of the appliance to an existing 3 pin 13 amp electricity point that is within 1 metre of installation location  (we are unable to connect to a 'hardwired' electricity point).</li>\n<li>Connection of the appliance to an existing waste outlet that is within 1 metre of the installation location</li>\n<li>A test wash to ensure that the appliance fills and drains correctly</li>\n<li>The refitting of the décor door(s)</li>\n<li>The removal of all packaging</li></ul>",
+                             "price": "90.00",
+                             "currency": "GBP",
+                             "orderOnSite": 3,
+                             "type": "DBS",
+                             "url": ""
+                             }
+                             ]
+    },
+    "media": {
+        "images": {
+            "altText": "BuyNeff S513K60X0G Integrated Dishwasher Online at johnlewis.com",
+            "urls": [
+                     "//johnlewis.scene7.com/is/image/JohnLewis/236931072?",
+                     "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt1?",
+                     "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt10?",
+                     "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt2?",
+                     "//johnlewis.scene7.com/is/image/JohnLewis/236931072alt3?"
+                     ]
+        },
+        "360images": {
+            "swfUrl": "//johnlewis.scene7.com/is/content/JohnLewis/360-degree-view",
+            "urls": []
+        },
+        "videos": {}
+    },
+    "setElements": [],
+    "headingTypes": [],
+    "moreFromRange": [],
+    "promotionalFeatures": [],
+    "setInformation": "",
+    "specialOfferBundles": [],
+    "fixedRelatedProducts": [],
+    "siblingSets": [],
+    "defaultCategory": {
+        "id": "6000047",
+        "name": "Dishwashers"
+    },
+    "releaseDateTimestamp": 0,
+    "crumbs": [
+               {
+               "type": "CATALOGUE",
+               "displayName": "Electricals",
+               "item": "500001",
+               "clickable": "true"
+               },
+               {
+               "type": "CATALOGUE",
+               "displayName": "Dishwashers",
+               "item": "6000047",
+               "clickable": "true"
+               }
+               ],
+    "seoInformation": {
+        "title": "",
+        "description": ""
+    },
+    "isInTopNkuCategory": true,
+    "brand": {
+        "name": "Neff",
+        "logo": "//johnlewis.scene7.com/is/image/JohnLewis/neff_brl?"
+    },
+    "swatchAvailable": true,
+    "madeToMeasureDetails": {
+        "type": "",
+        "styles": ""
+    },
+    "isAsafShape": false,
+    "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.9kWh/cycle",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "10L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "NO",
+        "noiselevel": "48dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2800L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+    },
+    "excludeFromLiveChat": true,
+    "reviewData": []
+}

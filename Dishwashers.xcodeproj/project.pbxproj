@@ -7,10 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B32AC78720DEF24F008E6BBC /* ProductDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B32AC78620DEF24F008E6BBC /* ProductDetail.swift */; };
+		B32AC78920DF031F008E6BBC /* ProductDetailModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B32AC78820DF031F008E6BBC /* ProductDetailModelTests.swift */; };
+		B32AC78B20DF051F008E6BBC /* productDetail.json in Resources */ = {isa = PBXBuildFile; fileRef = B32AC78A20DF051E008E6BBC /* productDetail.json */; };
 		B3440ADE20DEBE330095BBCA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3440ADD20DEBE330095BBCA /* AppDelegate.swift */; };
 		B3440AE520DEBE340095BBCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3440AE420DEBE340095BBCA /* Assets.xcassets */; };
 		B3440AE820DEBE340095BBCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3440AE620DEBE340095BBCA /* LaunchScreen.storyboard */; };
 		B3440AF320DEBE350095BBCA /* DishwashersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3440AF220DEBE350095BBCA /* DishwashersTests.swift */; };
+		B3440B0B20DEC8090095BBCA /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3440B0A20DEC8090095BBCA /* Product.swift */; };
+		B3440B0D20DEC94E0095BBCA /* ProductPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3440B0C20DEC94E0095BBCA /* ProductPrice.swift */; };
+		B3440B0F20DEC97B0095BBCA /* ProductModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3440B0E20DEC97B0095BBCA /* ProductModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,6 +30,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B32AC78620DEF24F008E6BBC /* ProductDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetail.swift; sourceTree = "<group>"; };
+		B32AC78820DF031F008E6BBC /* ProductDetailModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailModelTests.swift; sourceTree = "<group>"; };
+		B32AC78A20DF051E008E6BBC /* productDetail.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = productDetail.json; sourceTree = "<group>"; };
 		B3440ADA20DEBE330095BBCA /* Dishwashers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dishwashers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3440ADD20DEBE330095BBCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3440AE420DEBE340095BBCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -32,6 +41,9 @@
 		B3440AEE20DEBE350095BBCA /* DishwashersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DishwashersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3440AF220DEBE350095BBCA /* DishwashersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishwashersTests.swift; sourceTree = "<group>"; };
 		B3440AF420DEBE350095BBCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3440B0A20DEC8090095BBCA /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		B3440B0C20DEC94E0095BBCA /* ProductPrice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductPrice.swift; sourceTree = "<group>"; };
+		B3440B0E20DEC97B0095BBCA /* ProductModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +94,7 @@
 		B3440AF120DEBE350095BBCA /* DishwashersTests */ = {
 			isa = PBXGroup;
 			children = (
+				B3440B1020DEC9860095BBCA /* Product */,
 				B3440AF220DEBE350095BBCA /* DishwashersTests.swift */,
 				B3440AF420DEBE350095BBCA /* Info.plist */,
 			);
@@ -125,6 +138,9 @@
 		B3440B0620DEC5500095BBCA /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				B3440B0A20DEC8090095BBCA /* Product.swift */,
+				B3440B0C20DEC94E0095BBCA /* ProductPrice.swift */,
+				B32AC78620DEF24F008E6BBC /* ProductDetail.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -152,6 +168,16 @@
 				B3440AE920DEBE340095BBCA /* Info.plist */,
 			);
 			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B3440B1020DEC9860095BBCA /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				B32AC78A20DF051E008E6BBC /* productDetail.json */,
+				B3440B0E20DEC97B0095BBCA /* ProductModelTests.swift */,
+				B32AC78820DF031F008E6BBC /* ProductDetailModelTests.swift */,
+			);
+			path = Product;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,6 +270,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B32AC78B20DF051F008E6BBC /* productDetail.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +282,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3440ADE20DEBE330095BBCA /* AppDelegate.swift in Sources */,
+				B3440B0B20DEC8090095BBCA /* Product.swift in Sources */,
+				B32AC78720DEF24F008E6BBC /* ProductDetail.swift in Sources */,
+				B3440B0D20DEC94E0095BBCA /* ProductPrice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,7 +292,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B32AC78920DF031F008E6BBC /* ProductDetailModelTests.swift in Sources */,
 				B3440AF320DEBE350095BBCA /* DishwashersTests.swift in Sources */,
+				B3440B0F20DEC97B0095BBCA /* ProductModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
