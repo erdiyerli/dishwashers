@@ -107,7 +107,7 @@ extension ProductListViewController: ProductListViewInterface {
 
         switch state {
         case .loading:
-            indicator.startAnimating()
+            self.indicator.startAnimating()
         case .error(let message):
                 print(message)
         case .success(let results, let models):

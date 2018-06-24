@@ -29,6 +29,7 @@ class ProductListPresenter {
 
 extension ProductListPresenter: ProductListPresenterInput {
     func viewDidLoad() {
+        view?.update(state: .loading)
         interactor.loadProductList()
     }
 

@@ -42,16 +42,21 @@ class ProductListModuleTests: XCTestCase {
 
         XCTAssertTrue(mockInteractor.loadProductListCalled)
 
+        guard case ProductListViewState.loading? = mockView.state else {
+            XCTFail()
+            return
+        }
+
         presenter.didFailLoading(with: NSError(domain: "", code: 0, userInfo:nil))
 
-        guard case ProductListViewState.error(_) = mockView.state else {
+        guard case ProductListViewState.error(_)? = mockView.state else {
             XCTFail()
             return
         }
 
         presenter.didFinishLoading(searchResult: SearchResult(products: [Product()], results: 1))
 
-        guard case ProductListViewState.success(let results, let models) = mockView.state else {
+        guard case ProductListViewState.success(let results, let models)? = mockView.state else {
             XCTFail()
             return
         }
@@ -152,7 +157,7 @@ private extension Product {
 }
 
 class MockProductListView: ProductListViewInterface {
-    private(set) var state: ProductListViewState = .loading
+    private(set) var state: ProductListViewState?
 
     func update(state: ProductListViewState) {
         self.state = state
