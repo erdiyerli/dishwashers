@@ -7,15 +7,31 @@
 //
 
 import UIKit
+import Base
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
+    private var productListWireframe: ProductListWireframe!
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+
+        Network.Webservices.add(baseURL: DishwashersAPI.baseURL)
+
+        let nav = UINavigationController()
+        nav.navigationBar.isTranslucent = false
+
+        window = UIWindow(frame: UIScreen.main.bounds)
+        window?.rootViewController = nav
+        window?.makeKeyAndVisible()
+
+        productListWireframe = ProductListWireframe(navigationController: nav)
+        productListWireframe.show(with: .root, animated: false)
+
         return true
     }
 

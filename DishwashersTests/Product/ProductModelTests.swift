@@ -73,7 +73,8 @@ class ProductModelTests: XCTestCase {
 
         XCTAssertEqual(product?.id, "3215462")
         XCTAssertEqual(product?.title, "Bosch SMS25AW00G Freestanding Dishwasher, White")
-        XCTAssertEqual(product?.imageURL, "//johnlewis.scene7.com/is/image/JohnLewis/236888507?")
+        XCTAssertEqual(product?.image, "//johnlewis.scene7.com/is/image/JohnLewis/236888507?")
+        XCTAssertEqual(product?.imageURL, URL(string: "https://johnlewis.scene7.com/is/image/JohnLewis/236888507?"))
         XCTAssertEqual(product?.price.was, "")
         XCTAssertEqual(product?.price.then1, "")
         XCTAssertEqual(product?.price.then2, "")

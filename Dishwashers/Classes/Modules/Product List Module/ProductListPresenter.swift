@@ -10,13 +10,15 @@ import UIKit
 
 protocol ProductListPresenterInput: class {
     func viewDidLoad()
-    func viewDidSelect(item: Product)
+    func viewDidSelectItem(at indexPath: IndexPath)
 }
 
 class ProductListPresenter {
     weak var view: ProductListViewInterface?
     fileprivate var wireFrame: ProductListWireframeInterface
     fileprivate var interactor: ProductListInteractorInput
+
+    private var products = [Product]()
 
     init(wireFrame: ProductListWireframeInterface, view: ProductListViewInterface, interactor: ProductListInteractorInput) {
         self.view = view
@@ -30,14 +32,18 @@ extension ProductListPresenter: ProductListPresenterInput {
         interactor.loadProductList()
     }
 
-    func viewDidSelect(item: Product) {
+    func viewDidSelectItem(at indexPath: IndexPath) {
+        let item = products[indexPath.item]
         wireFrame.navigate(to: .productDetail(product: item))
     }
 }
 
 extension ProductListPresenter: ProductListInteractorOutput {
     func didFinishLoading(products: [Product]) {
-        view?.update(state: .success(data: products))
+        self.products = products
+
+        let models = products.compactMap({ ProductListCollectionViewCellModel.init(title: $0.title, imageURL: $0.imageURL, price: $0.price.now) })
+        view?.update(state: .success(data: models))
     }
 
     func didFailLoading(with error: Error) {

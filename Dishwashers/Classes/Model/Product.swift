@@ -12,13 +12,17 @@ import Foundation
 struct Product: Decodable {
     let id: String
     let title: String
-    let imageURL: String
+    let image: String
     let price: ProductPrice
+
+    var imageURL: URL? {
+        return URL(string: "https:\(image)")
+    }
 
     enum CodingKeys: String, CodingKey {
         case id = "productId"
         case title
-        case imageURL = "image"
+        case image
         case price
     }
 
@@ -27,7 +31,7 @@ struct Product: Decodable {
 
         id = try container.decode(String.self, forKey: .id)
         title = try container.decode(String.self, forKey: .title)
-        imageURL = try container.decode(String.self, forKey: .imageURL)
+        image = try container.decode(String.self, forKey: .image)
         price = try container.decode(ProductPrice.self, forKey: .price)
     }
 }
@@ -36,7 +40,8 @@ extension Product {
 
     static func search(query: String, pageSize: Int) -> Resource<[Product]> {
         let queries = [ URLQueryItem(name: "q", value: query),
-                        URLQueryItem(name: "pageSize", value: "\(pageSize)") ]
+                        URLQueryItem(name: "pageSize", value: "\(pageSize)"),
+                        URLQueryItem(name: "key", value: "Wu1Xqn3vNrd1p7hqkvB6hEu0G9OrsYGb")]
 
         return Resource(endpoint: DishwashersAPI.endpoints.search.url,
                                    method: .get(nil),

@@ -49,17 +49,17 @@ class ProductListModuleTests: XCTestCase {
             return
         }
 
-        presenter.didFinishLoading(products: [])
+        presenter.didFinishLoading(products: [Product()])
 
         guard case ProductListViewState.success(let products) = mockView.state else {
             XCTFail()
             return
         }
 
-        XCTAssertEqual(products.count, 0)
+        XCTAssertEqual(products.count, 1)
 
         let selectedProduct = Product()
-        presenter.viewDidSelect(item: selectedProduct)
+        presenter.viewDidSelectItem(at: IndexPath(item: 0, section: 0) )
 
         guard case ProductListWireframeNavigation.productDetail(let navigationProduct)? = wireframe.navigateOption else {
             XCTFail()
@@ -121,6 +121,22 @@ class ProductListModuleTests: XCTestCase {
             XCTAssertNotNil(mockPresenter.error)
         }
     }
+
+    func testProductListView() {
+
+        let exp = expectation(description: "")
+
+        let view = ProductListViewController(nibName: nil, bundle: nil)
+        let mockPresenter = MockProductListPresenter(interactor: ProductListInteractor(), expectation: exp )
+
+        view.presenter = mockPresenter
+
+        _ = view.view
+
+        waitForExpectations(timeout: 1.0) { (_) in
+            XCTAssertTrue(mockPresenter.viewDidLoadCalled)
+        }
+    }
     
 }
 
@@ -128,7 +144,7 @@ class ProductListModuleTests: XCTestCase {
 private extension Product {
     init() {
         self.id = ""
-        self.imageURL = ""
+        self.image = ""
         self.title = ""
         self.price = ProductPrice(was: "", then1: "", then2: "", now: "", currency: "")
     }
@@ -150,11 +166,14 @@ class MockProductListInteractor: ProductListInteractorInput {
     }
 }
 
-class MockProductListPresenter: ProductListInteractorOutput {
+class MockProductListPresenter: ProductListPresenterInput, ProductListInteractorOutput {
 
     private(set) var products = [Product]()
     private(set) var error: Error?
     private(set) var expectation: XCTestExpectation
+    private(set) var viewDidLoadCalled: Bool = false
+    private(set) var selectedProduct: Product?
+
     var interactor: ProductListInteractorInput
 
     init(interactor: ProductListInteractorInput, expectation: XCTestExpectation) {
@@ -170,6 +189,15 @@ class MockProductListPresenter: ProductListInteractorOutput {
     func didFailLoading(with error: Error) {
         self.error = error
         expectation.fulfill()
+    }
+
+    func viewDidLoad() {
+        viewDidLoadCalled = true
+        expectation.fulfill()
+    }
+
+    func viewDidSelectItem(at indexPath: IndexPath) {
+        selectedProduct = products[indexPath.item]
     }
 }
 
