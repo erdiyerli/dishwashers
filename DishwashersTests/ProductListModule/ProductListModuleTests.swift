@@ -49,14 +49,15 @@ class ProductListModuleTests: XCTestCase {
             return
         }
 
-        presenter.didFinishLoading(products: [Product()])
+        presenter.didFinishLoading(searchResult: SearchResult(products: [Product()], results: 1))
 
-        guard case ProductListViewState.success(let products) = mockView.state else {
+        guard case ProductListViewState.success(let results, let models) = mockView.state else {
             XCTFail()
             return
         }
 
-        XCTAssertEqual(products.count, 1)
+        XCTAssertEqual(results, 1)
+        XCTAssertEqual(models.count, 1)
 
         let selectedProduct = Product()
         presenter.viewDidSelectItem(at: IndexPath(item: 0, section: 0) )
@@ -90,7 +91,7 @@ class ProductListModuleTests: XCTestCase {
         interactor.loadProductList()
 
         waitForExpectations(timeout: 5.0) { (_) in
-            XCTAssertEqual(mockPresenter.products.count, 20)
+            XCTAssertEqual(mockPresenter.searchResult?.products.count, 20)
         }
     }
 
@@ -168,7 +169,7 @@ class MockProductListInteractor: ProductListInteractorInput {
 
 class MockProductListPresenter: ProductListPresenterInput, ProductListInteractorOutput {
 
-    private(set) var products = [Product]()
+    private(set) var searchResult: SearchResult?
     private(set) var error: Error?
     private(set) var expectation: XCTestExpectation
     private(set) var viewDidLoadCalled: Bool = false
@@ -181,8 +182,8 @@ class MockProductListPresenter: ProductListPresenterInput, ProductListInteractor
         self.interactor = interactor
     }
 
-    func didFinishLoading(products: [Product]) {
-        self.products = products
+    func didFinishLoading(searchResult: SearchResult) {
+        self.searchResult = searchResult
         expectation.fulfill()
     }
 
@@ -197,7 +198,7 @@ class MockProductListPresenter: ProductListPresenterInput, ProductListInteractor
     }
 
     func viewDidSelectItem(at indexPath: IndexPath) {
-        selectedProduct = products[indexPath.item]
+        selectedProduct = searchResult?.products[indexPath.item]
     }
 }
 

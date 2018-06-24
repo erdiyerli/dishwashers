@@ -18,7 +18,7 @@ class ProductListPresenter {
     fileprivate var wireFrame: ProductListWireframeInterface
     fileprivate var interactor: ProductListInteractorInput
 
-    private var products = [Product]()
+    private var searchResult: SearchResult?
 
     init(wireFrame: ProductListWireframeInterface, view: ProductListViewInterface, interactor: ProductListInteractorInput) {
         self.view = view
@@ -33,17 +33,16 @@ extension ProductListPresenter: ProductListPresenterInput {
     }
 
     func viewDidSelectItem(at indexPath: IndexPath) {
-        let item = products[indexPath.item]
+        guard let item = searchResult?.products[indexPath.item] else {return}
         wireFrame.navigate(to: .productDetail(product: item))
     }
 }
 
 extension ProductListPresenter: ProductListInteractorOutput {
-    func didFinishLoading(products: [Product]) {
-        self.products = products
-
-        let models = products.compactMap({ ProductListCollectionViewCellModel.init(title: $0.title, imageURL: $0.imageURL, price: $0.price.now) })
-        view?.update(state: .success(data: models))
+    func didFinishLoading(searchResult: SearchResult) {
+        self.searchResult = searchResult
+        let models = searchResult.products.compactMap({ ProductListCollectionViewCellModel.init(title: $0.title, imageURL: $0.imageURL, price: $0.price.now) })
+        view?.update(state: .success(results: searchResult.results, models: models))
     }
 
     func didFailLoading(with error: Error) {

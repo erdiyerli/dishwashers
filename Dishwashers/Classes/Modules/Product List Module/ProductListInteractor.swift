@@ -13,7 +13,7 @@ protocol ProductListInteractorInput: class {
 }
 
 protocol ProductListInteractorOutput: class {
-    func didFinishLoading(products: [Product])
+    func didFinishLoading(searchResult: SearchResult)
     func didFailLoading(with error: Error)
 }
 
@@ -32,8 +32,8 @@ extension ProductListInteractor: ProductListInteractorInput {
             switch result {
             case .error(let error):
                 self?.output?.didFailLoading(with: error)
-            case .success(let products):
-                self?.output?.didFinishLoading(products: products)
+            case .success(let result):
+                self?.output?.didFinishLoading(searchResult: result)
             }
         }
     }

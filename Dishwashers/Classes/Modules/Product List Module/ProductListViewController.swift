@@ -11,7 +11,7 @@ import UIKit
 enum ProductListViewState {
     case loading
     case error(message: String)
-    case success(data: [ProductListCollectionViewCellModel])
+    case success(results: Int, models: [ProductListCollectionViewCellModel])
 }
 
 protocol ProductListViewInterface: class {
@@ -27,6 +27,11 @@ class ProductListViewController: UIViewController {
     var presenter: ProductListPresenterInput?
 
     private var models = [ProductListCollectionViewCellModel]()
+    private var results: Int = 0 {
+        didSet {
+            self.title = "Dishwashers (\(self.results))"
+        }
+    }
 
     private lazy var collectionView: UICollectionView = {
         let flow = UICollectionViewFlowLayout()
@@ -105,8 +110,9 @@ extension ProductListViewController: ProductListViewInterface {
             indicator.startAnimating()
         case .error(let message):
                 print(message)
-        case .success(let models):
+        case .success(let results, let models):
             self.models = models
+            self.results = results
             collectionView.reloadData()
         }
     }

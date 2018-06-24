@@ -39,6 +39,7 @@
 		B3461A2120E00D6200FD9A43 /* UICollectionView+Dishwashers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3461A2020E00D6200FD9A43 /* UICollectionView+Dishwashers.swift */; };
 		B3461A2320E03AF100FD9A43 /* Kingfisher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3461A2220E03AF000FD9A43 /* Kingfisher.framework */; };
 		B3461A2420E03AF100FD9A43 /* Kingfisher.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3461A2220E03AF000FD9A43 /* Kingfisher.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3461A2820E0519700FD9A43 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3461A2720E0519700FD9A43 /* SearchResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,6 +103,7 @@
 		B3461A1C20E00C0600FD9A43 /* ProductListCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductListCollectionViewCell.xib; sourceTree = "<group>"; };
 		B3461A2020E00D6200FD9A43 /* UICollectionView+Dishwashers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Dishwashers.swift"; sourceTree = "<group>"; };
 		B3461A2220E03AF000FD9A43 /* Kingfisher.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kingfisher.framework; path = Carthage/Build/iOS/Kingfisher.framework; sourceTree = "<group>"; };
+		B3461A2720E0519700FD9A43 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -235,6 +237,7 @@
 				B3440B0A20DEC8090095BBCA /* Product.swift */,
 				B3440B0C20DEC94E0095BBCA /* ProductPrice.swift */,
 				B32AC78620DEF24F008E6BBC /* ProductDetail.swift */,
+				B3461A2720E0519700FD9A43 /* SearchResult.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -448,6 +451,7 @@
 				B32AC79720DF197B008E6BBC /* ProductListViewController.swift in Sources */,
 				B32AC79320DF195C008E6BBC /* ProductListPresenter.swift in Sources */,
 				B3461A2120E00D6200FD9A43 /* UICollectionView+Dishwashers.swift in Sources */,
+				B3461A2820E0519700FD9A43 /* SearchResult.swift in Sources */,
 				B32AC78D20DF16DB008E6BBC /* ProductListWireframe.swift in Sources */,
 				B3440B0B20DEC8090095BBCA /* Product.swift in Sources */,
 				B32AC79520DF196A008E6BBC /* ProductListInteractor.swift in Sources */,
@@ -624,7 +628,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = doubletap.Dishwashers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -646,7 +650,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = doubletap.Dishwashers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};

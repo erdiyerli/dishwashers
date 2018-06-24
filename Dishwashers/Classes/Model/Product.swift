@@ -38,7 +38,7 @@ struct Product: Decodable {
 
 extension Product {
 
-    static func search(query: String, pageSize: Int) -> Resource<[Product]> {
+    static func search(query: String, pageSize: Int) -> Resource<SearchResult> {
         let queries = [ URLQueryItem(name: "q", value: query),
                         URLQueryItem(name: "pageSize", value: "\(pageSize)"),
                         URLQueryItem(name: "key", value: "Wu1Xqn3vNrd1p7hqkvB6hEu0G9OrsYGb")]
@@ -50,22 +50,14 @@ extension Product {
                                    cancellationPolicy: .none,
                                    errorResponseHandler: { (code, data) -> (Error?) in
                 return DiswashersError<DataError>(type: .unhandled)
-        }, parse: { (data) -> (Result<[Product]>) in
+        }, parse: { (data) -> (Result<SearchResult>) in
 
             do {
                 let decoder = JSONDecoder()
 
-                let json = try JSONSerialization.jsonObject(with: data, options: .allowFragments) as? [String: Any]
+                let searchResult = try decoder.decode(SearchResult.self, from: data)
 
-                guard let productList = json?["products"] else {
-                        return Result.error(DiswashersError<DataError>(type: .parse))
-                }
-
-                let listData = try JSONSerialization.data(withJSONObject: productList, options: [])
-
-                let products = try decoder.decode([Product].self, from: listData)
-
-                return Result<[Product]>.success(products)
+                return Result<SearchResult>.success(searchResult)
 
             } catch {
                 return Result.error(DiswashersError<DataError>(type: .parse))
