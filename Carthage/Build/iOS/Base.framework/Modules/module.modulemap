@@ -1,0 +1,4 @@
+framework module Base {
+    header "Base-Swift.h"
+    requires objc
+}

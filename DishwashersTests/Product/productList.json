@@ -1,0 +1,2889 @@
+{
+  "products": [
+    {
+      "productId": "3215462",
+      "type": "product",
+      "title": "Bosch SMS25AW00G Freestanding Dishwasher, White",
+      "code": "81701107",
+      "averageRating": 4.4722,
+      "reviews": 72,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "349.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888507?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236888507",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 548101898,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.92kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "NO",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "48dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "5",
+        "placesettings": "12",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "1955287",
+      "type": "product",
+      "title": "Bosch SMV40C30GB Fully Integrated Dishwasher",
+      "code": "88701207",
+      "averageRating": 4.1679,
+      "reviews": 131,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "359.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/234378764?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "234378764",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "smarttechnologybuiltin": "YES",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "1.02kWh",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "11.7L",
+        "floodprotection": "YES",
+        "saltlevelindicator": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "290kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "50dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3300L",
+        "international": "No",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "No",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "4",
+        "placesettings": "12",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "1997493",
+      "type": "product",
+      "title": "Beko DFS05010W Freestanding Slimline Dishwasher, White",
+      "code": "81712602",
+      "averageRating": 4.4762,
+      "reviews": 126,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "188.99",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/234357349?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £80.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "234357349",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Beko",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 464671909,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.83 kWh",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Slimline",
+        "waterconsumptionstandardcycle": "13L",
+        "floodprotection": "YES",
+        "saltlevelindicator": "YES",
+        "dryingsystem": "Inherent Heat",
+        "estimatedannualenergyconsumption": "237kWh",
+        "automaticloadadjustment": "No",
+        "noiselevel": "49dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "No",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3640L",
+        "international": "No",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "Yes",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "5",
+        "placesettings": "10",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3218074",
+      "type": "product",
+      "title": "Bosch SMS24AW01G Freestanding Dishwasher, White",
+      "code": "81701106",
+      "averageRating": 4.375,
+      "reviews": 48,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "299.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888513?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236888513",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 548101898,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "1.02kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "11.7L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "NO",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "290kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "50dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3300L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "NO",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "4 plus one special VarioSpeed option",
+        "placesettings": "12",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3244905",
+      "type": "product",
+      "title": "Neff S513K60X0G Integrated Dishwasher",
+      "code": "88701308",
+      "averageRating": 4.5938,
+      "reviews": 32,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "429.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236931072?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "Save £50 until 10.07.18 (price includes saving)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10139100249",
+          "imageURL": "",
+          "linkText": "",
+          "linkURL": "",
+          "longDescription": "",
+          "promoImageName": "",
+          "siteDisplayName": "Save £50 until 10.07.18 (price includes saving)"
+        }
+      },
+      "defaultSkuId": "236931072",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Neff",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.9kWh/cycle",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "10L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "NO",
+        "noiselevel": "48dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2800L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3001934",
+      "type": "product",
+      "title": "Bosch SPS40E32GB Slimline Freestanding Dishwasher, White",
+      "code": "81711207",
+      "averageRating": 4.4615,
+      "reviews": 65,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "349.99",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236477524?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236477524",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 464671909,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.78kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Slimline",
+        "waterconsumptionstandardcycle": "11.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "220kWh",
+        "automaticloadadjustment": "Yes",
+        "noiselevel": "48dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3220L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "No",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "No",
+        "noofprograms": "4",
+        "placesettings": "9",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3224775",
+      "type": "product",
+      "title": "Neff S513G60X0G Integrated Dishwasher",
+      "code": "88701304",
+      "averageRating": 0.0,
+      "reviews": 0,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "499.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888510?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "Claim up to £50 off when you trade in an old appliance",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10139101012",
+          "imageURL": "",
+          "linkText": "",
+          "linkURL": "",
+          "longDescription": "\u003cp\u003eSave £50 when you trade in your old appliance. Tick the \u003cstrong\u003edisposal\u003c/strong\u003e option and enter \u003cstrong\u003eNEFFTRADE5015\u003c/strong\u003e\u0026nbsp;at the end of checkout.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTerms and conditions\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eThe offer is only available if the customer agrees to dispose of an old appliance he or she already owns by entering the promotional code, and allowing John Lewis or its delivery agents to collect and dispose of their old appliance on delivery of the new one.\u003c/p\u003e\u003cp\u003eIf the customer wishes to return the product, only the discounted price paid will be refunded and the old appliance will not be returned. Also available in John Lewis shops.\u003c/p\u003e",
+          "promoImageName": "",
+          "siteDisplayName": "Claim up to £50 off when you trade in an old appliance"
+        }
+      },
+      "defaultSkuId": "236888510",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Neff",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 548101898,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.9kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "10L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "258kWh",
+        "automaticloadadjustment": "NO",
+        "noiselevel": "48dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2800L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "12",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3224099",
+      "type": "product",
+      "title": "Bosch SMS46IW04G Freestanding Dishwasher, White",
+      "code": "81701206",
+      "averageRating": 4.8,
+      "reviews": 20,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "429.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888511?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236888511",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "1.02kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "NO",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "46dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "1391191",
+      "type": "product",
+      "title": "Indesit DIF 04B1 Ecotime Fully Integrated Dishwasher, White",
+      "code": "88701901",
+      "averageRating": 3.7778,
+      "reviews": 9,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "219.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/233326789?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "Claim 6 months worth of Dishwasher Tablets at no extra cost",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10140800105",
+          "imageURL": "",
+          "linkText": "",
+          "linkURL": "",
+          "longDescription": "",
+          "promoImageName": "",
+          "siteDisplayName": "Claim 6 months worth of Dishwasher Tablets at no extra cost"
+        }
+      },
+      "defaultSkuId": "233326789",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Indesit",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim 6 months worth of Fairy Platimum Dishwasher Tablets at no extra cost",
+          "iconUrl": "",
+          "linkUrl": "",
+          "description": "",
+          "longDescription": "\u003cstrong\u003e\u003cu\u003eOffer\u003c/u\u003e: \u003c/strong\u003eClaim \u003cstrong\u003e6 months worth of Fairy Platimum Dishwasher Tablets\u003c/strong\u003e at no extra cost. Offer includes 140 tablets.\u003cbr /\u003e\u003cbr /\u003eFor full terms and conditions and how to claim, \u003ca href\u003d\"https://indesitfreefairy.co.uk/holding-page/\"\u003e\u003cspan style\u003d\"color:#696969\"\u003eclick here\u003c/span\u003e\u003c/a\u003e\u003cspan style\u003d\"color:#696969\"\u003e."
+        },
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        },
+        {
+          "title": "Click here! Product Tour",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/producttour_170512_ico?",
+          "linkUrl": "http://isitetv.com/en062124193003068134159184209234-p4jl.htm",
+          "description": "Click here! Product Tour",
+          "longDescription": ""
+        },
+        {
+          "title": "Disposal and installation is not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - view opening hours.",
+          "iconUrl": "",
+          "linkUrl": "http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf ",
+          "description": "",
+          "longDescription": "Disposal and installation services are not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - \u003ca href\u003d\"http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf\"\u003eview opening hours\u003c/a\u003e"
+        }
+      ],
+      "features": [],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "1.04kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "11L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Natural",
+        "estimatedannualenergyconsumption": "295kWh",
+        "automaticloadadjustment": "Yes",
+        "noiselevel": "49dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "NO",
+        "homearea": "Clean",
+        "timerdelay": "No",
+        "childlock": "NO",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3080L",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "No",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "noofprograms": "4",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3224246",
+      "type": "product",
+      "title": "Bosch SMV46MX00G Integrated Dishwasher",
+      "code": "88701201",
+      "averageRating": 4.44,
+      "reviews": 25,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "549.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236898266?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £50 cashback until 17.07.18 (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "Claim £50 cashback until 17.07.18 (via redemption)",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236898266",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £50 cashback until 17.07.18 (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £50 cashback until 17.07.18 (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003eView terms and conditions and how to claim\u003c/a\u003e\u003c/p\u003e"
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.93kWh/cycle",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "266kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "46dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "NO",
+        "timerdelay": "No",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "5",
+        "placesettings": "14",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3241872",
+      "type": "product",
+      "title": "Bosch SMV46IX01G Integrated Dishwasher",
+      "code": "88701204",
+      "averageRating": 4.2143,
+      "reviews": 14,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "469.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236920214?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £50 cashback until 17.07.18 (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "Claim £50 cashback until 17.07.18 (via redemption)",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10139800698",
+          "imageURL": "",
+          "linkText": "",
+          "linkURL": "",
+          "longDescription": "",
+          "promoImageName": "",
+          "siteDisplayName": "Save £60 until 16.07.18 (price includes saving)"
+        }
+      },
+      "defaultSkuId": "236920214",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £50 cashback until 17.07.18 (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £50 cashback until 17.07.18 (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003eView terms and conditions and how to claim\u003c/a\u003e\u003c/p\u003e"
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.92kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Residual Heat",
+        "estimatedannualenergyconsumption": "266kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "46dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "Information not available",
+        "timerdelay": "No",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "12",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "2197873",
+      "type": "product",
+      "title": "Miele G4203SC Freestanding Dishwasher, White",
+      "code": "81702915",
+      "averageRating": 4.6842,
+      "reviews": 76,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "499.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/234783491?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Save £80 (price includes saving)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10141700197",
+          "imageURL": "",
+          "linkText": "",
+          "linkURL": "",
+          "longDescription": "Save £80 (price includes saving)",
+          "promoImageName": "",
+          "siteDisplayName": "Save £80 (price includes saving)"
+        }
+      },
+      "defaultSkuId": "234783491",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Miele",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "13.5L",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "13L",
+        "floodprotection": "YES",
+        "saltlevelindicator": "YES",
+        "dryingsystem": "Turbothermic Plus",
+        "estimatedannualenergyconsumption": "299kWh",
+        "automaticloadadjustment": "NO",
+        "noiselevel": "46dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "Yes (labelled as Gentle)",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "3,780L",
+        "international": "NO",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "Yes",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "9",
+        "placesettings": "14",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3329013",
+      "type": "product",
+      "title": "John Lewis JLDWW1327 Freestanding Dishwasher, White",
+      "code": "81700206",
+      "averageRating": 4.0,
+      "reviews": 36,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "329.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/237045290?",
+      "additionalServices": [
+        "3 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £80.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "237045290",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "John Lewis",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.92kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.9L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "Yes",
+        "noiselevel": "46dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "timerdelay": "Yes",
+        "childlock": "NO",
+        "dryingperformance": "A",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "Yes",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3312288",
+      "type": "product",
+      "title": "Bosch SMV68MD02G Integrated Dishwasher",
+      "code": "88701125",
+      "averageRating": 4.8571,
+      "reviews": 7,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "618.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/237110669?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £70 cashback until 17.07.18 (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "Claim £70 cashback until 17.07.18 (via redemption)",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "237110669",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £70 cashback until 17.07.18 (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £70 cashback until 17.07.18 (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003eView terms and conditions and how to claim\u003c/a\u003e\u003c/p\u003e"
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        },
+        {
+          "title": "Disposal and installation is not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - view opening hours.",
+          "iconUrl": "",
+          "linkUrl": "http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf ",
+          "description": "",
+          "longDescription": "Disposal and installation services are not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - \u003ca href\u003d\"http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf\"\u003eview opening hours\u003c/a\u003e"
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.92kWh",
+        "cutlerybasket": "Tray",
+        "waterconsumptionstandardcycle": "6.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "44dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "No - Glass 40°",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "timerdelay": "YES",
+        "childlock": "YES",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "1820L",
+        "homeappliancetype": "Dishwashers",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "Yes",
+        "noofprograms": "8",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "1913880",
+      "type": "product",
+      "title": "Bosch SPS59T02GB Freestanding Slimline Dishwasher, White",
+      "code": "81711205",
+      "averageRating": 4.64,
+      "reviews": 100,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "449.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/234326393?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £100.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "234326393",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Rated A+ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+ for energy",
+          "longDescription": ""
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 464671909,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.84kWh",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Slimline",
+        "waterconsumptionstandardcycle": "9.5L",
+        "floodprotection": "YES",
+        "saltlevelindicator": "YES",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "237kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "44dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660 Litres",
+        "international": "No",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "Yes",
+        "noofprograms": "5",
+        "placesettings": "10",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3328837",
+      "type": "product",
+      "title": "John Lewis JLDWS1328 Freestanding Dishwasher, Stainless Steel",
+      "code": "81700207",
+      "averageRating": 3.9412,
+      "reviews": 17,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "349.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/237059569?",
+      "additionalServices": [
+        "3 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £80.00"
+      ],
+      "displaySpecialOffer": "",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "237059569",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "John Lewis",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.92kWh/cycle",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.9L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "Yes",
+        "noiselevel": "46dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "timerdelay": "Yes",
+        "childlock": "NO",
+        "dryingperformance": "A",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "Yes",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3310625",
+      "type": "product",
+      "title": "Bosch SMV46IX00G Integrated Dishwasher, Brushed Steel",
+      "code": "88701131",
+      "averageRating": 4.0,
+      "reviews": 2,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "479.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/237110640?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £50 cashback until 17.07.18 (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "Claim £50 cashback until 17.07.18 (via redemption)",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "237110640",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £50 cashback until 17.07.18 (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £50 cashback until 17.07.18 (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003eView terms and conditions and how to claim\u003c/a\u003e\u003c/p\u003e"
+        },
+        {
+          "title": "Disposal and installation is not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - view opening hours.",
+          "iconUrl": "",
+          "linkUrl": "http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf ",
+          "description": "",
+          "longDescription": "Disposal and installation services are not available online for this product. Please call 0345 604 8835 to order this product and arrange these services - \u003ca href\u003d\"http://johnlewis.scene7.com/is/content/JohnLewis/contact_centre_opening_hours_d2cpdf\"\u003eview opening hours\u003c/a\u003e"
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.92kWh",
+        "cutlerybasket": "Basket",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "floodprotection": "YES",
+        "saltlevelindicator": "YES",
+        "estimatedannualenergyconsumption": "262kWh",
+        "automaticloadadjustment": "YES",
+        "digitaldisplay": "YES",
+        "noiselevel": "48dB",
+        "delicatewash": "No - Glass 40°",
+        "homearea": "Clean",
+        "quickwash": "YES",
+        "timerdelay": "YES",
+        "estimatedannualwaterconsumption": "2660L",
+        "dryingperformance": "A",
+        "homeappliancetype": "Dishwashers",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3215505",
+      "type": "product",
+      "title": "Bosch SMS67MW00G PerfectDry Freestanding Dishwasher, White",
+      "code": "81701108",
+      "averageRating": 4.7143,
+      "reviews": 28,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "596.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888508?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £50 cashback or a £70 wine voucher (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10108200052",
+          "imageURL": "",
+          "linkText": "View terms and conditions and how to claim",
+          "linkURL": "https://www.bosch-home.co.uk/boschchoice2018",
+          "longDescription": "\u003cp\u003eClaim £50 cashback or a £70 wine voucher (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003e\u003cspan style\u003d\"font-size:10pt\"\u003eView terms and conditions and how to claim\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+          "promoImageName": "",
+          "siteDisplayName": "Claim £50 cashback or a £70 wine voucher (via redemption)"
+        }
+      },
+      "defaultSkuId": "236888508",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": true,
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £50 cashback or a £70 wine voucher (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £50 cashback or a £70 wine voucher (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003e\u003cspan style\u003d\"font-size:10pt\"\u003eView terms and conditions and how to claim\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e"
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1008911896,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 548101898,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.83kWh/cycle",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "237kWh",
+        "automaticloadadjustment": "Yes",
+        "noiselevel": "44dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "Yes",
+        "noofprograms": "5",
+        "placesettings": "14",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3261365",
+      "type": "product",
+      "title": "Bosch SMV68MD00G Integrated Dishwasher",
+      "code": "88701105",
+      "averageRating": 4.5,
+      "reviews": 14,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "719.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236888505?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £100 cashback until 17.07.18 (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "Claim £100 cashback until 17.07.18 (via redemption)",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "defaultSkuId": "236888505",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £100 cashback until 17.07.18 (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £100 cashback until 17.07.18 (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003eView terms and conditions and how to claim\u003c/a\u003e\u003c/p\u003e"
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        },
+        {
+          "title": "Rated A+++ for energy",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/energy_a_plusplusplus_ico?",
+          "linkUrl": "http://www.johnlewis.com/buying-guides/energy-efficiency-guide",
+          "description": "Rated A+++ for energy",
+          "longDescription": ""
+        },
+        {
+          "title": "Quiet Mark awarded product, find out more",
+          "iconUrl": "//johnlewis.scene7.com/is/image/JohnLewis/qm_email_logo_060314",
+          "linkUrl": "http://www.johnlewis.com/inspiration-and-advice/electricals/quiet-mark-appliances?intcmp\u003deht_quiet_mark_applainces_icon_0216",
+          "description": "Quiet Mark",
+          "longDescription": ""
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -1391635057,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -845357561,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 548101898,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 795057037,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        },
+        {
+          "mPrintHashcode": -645089441,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "YES",
+        "smarttechnologybuiltin": "NO",
+        "integratedorfreestanding": "Integrated",
+        "energyconsumptionpercycle": "0.73kWh",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "7.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "YES",
+        "dryingsystem": "Heat Exchanger",
+        "estimatedannualenergyconsumption": "235kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "44dB",
+        "digitaldisplay": "YES",
+        "delicatewash": "YES",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "YES",
+        "timerdelay": "Yes",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "1650L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "Yes",
+        "noofprograms": "6",
+        "placesettings": "13",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    },
+    {
+      "productId": "3227844",
+      "type": "product",
+      "title": "Bosch SMS46MI00G Freestanding Dishwasher, Stainless Steel",
+      "code": "81701220",
+      "averageRating": 0.0,
+      "reviews": 0,
+      "price": {
+        "was": "",
+        "then1": "",
+        "then2": "",
+        "now": "529.00",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/236931069?",
+      "additionalServices": [
+        "2 year guarantee included",
+        "5 years Added Care for your home appliance (includes guarantee period) £150.00"
+      ],
+      "displaySpecialOffer": "Claim £50 cashback or a £70 wine voucher (via redemption)",
+      "promoMessages": {
+        "priceMatched": "",
+        "offer": "",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {
+          "customSpecialOfferId": "10108200052",
+          "imageURL": "",
+          "linkText": "View terms and conditions and how to claim",
+          "linkURL": "https://www.bosch-home.co.uk/boschchoice2018",
+          "longDescription": "\u003cp\u003eClaim £50 cashback or a £70 wine voucher (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003e\u003cspan style\u003d\"font-size:10pt\"\u003eView terms and conditions and how to claim\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+          "promoImageName": "",
+          "siteDisplayName": "Claim £50 cashback or a £70 wine voucher (via redemption)"
+        }
+      },
+      "defaultSkuId": "236931069",
+      "colorSwatches": [],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": "",
+      "categoryQuickViewEnabled": false,
+      "swatchCategoryType": "",
+      "brand": "Bosch",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [
+        {
+          "title": "Claim £50 cashback or a £70 wine voucher (via redemption)",
+          "iconUrl": "",
+          "linkUrl": "https://www.bosch-home.co.uk/boschchoice2018",
+          "description": "",
+          "longDescription": "\u003cp\u003eClaim £50 cashback or a £70 wine voucher (via redemption)\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://www.bosch-home.co.uk/boschchoice2018\"\u003e\u003cspan style\u003d\"font-size:10pt\"\u003eView terms and conditions and how to claim\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e"
+        }
+      ],
+      "features": [
+        {
+          "mPrintHashcode": 1472107742,
+          "mUpdateReferencesFlag": true,
+          "mBeingCheckedOut": false
+        }
+      ],
+      "dynamicAttributes": {
+        "timeremainingindicator": "NO",
+        "integratedorfreestanding": "Freestanding",
+        "energyconsumptionpercycle": "0.93kWh/cycle",
+        "cutlerybasket": "Tray",
+        "dishwashersize": "Full",
+        "waterconsumptionstandardcycle": "9.5L",
+        "saltlevelindicator": "YES",
+        "floodprotection": "NO",
+        "dryingsystem": "Residual heat",
+        "estimatedannualenergyconsumption": "266kWh",
+        "automaticloadadjustment": "YES",
+        "noiselevel": "48dB",
+        "digitaldisplay": "NO",
+        "delicatewash": "NO",
+        "quickwash": "YES",
+        "homearea": "Clean",
+        "childlock": "Information not available",
+        "timerdelay": "No",
+        "dryingperformance": "A",
+        "estimatedannualwaterconsumption": "2660L/year",
+        "homeappliancetype": "Dishwashers",
+        "programsequenceindicator": "YES",
+        "adjustableracking": "YES",
+        "washperformance": "A",
+        "quietmark": "NO",
+        "noofprograms": "6",
+        "placesettings": "14",
+        "rinseaidindicator": "YES"
+      },
+      "directorate": "Electronics \u0026 Home Technology Directorat"
+    }
+  ],
+  "facets": [
+    {
+      "dimensionName": "sku.offerType",
+      "name": "On Offer",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/all-offers/_/N-1yzvw1q",
+          "label": "All Offers",
+          "qty": "44",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/reduced-to-clear/_/N-1yzwd58",
+          "label": "Reduced To Clear",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "product.newIn",
+      "name": "New In",
+      "type": "Single",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/new-in/_/N-7lhg",
+          "label": "New In",
+          "qty": "17",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "integratedorfreestanding",
+      "name": "Integrated or Freestanding",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/freestanding/_/N-1z0rooj",
+          "label": "Freestanding",
+          "qty": "85",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/integrated/_/N-1z0rnds",
+          "label": "Integrated",
+          "qty": "83",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/semi-integrated/_/N-1z0rib6",
+          "label": "Semi-integrated",
+          "qty": "13",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "brand",
+      "name": "Brand",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/bosch/_/N-1z13z3z",
+          "label": "Bosch",
+          "qty": "39",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/miele/_/N-1z1411z",
+          "label": "Miele",
+          "qty": "26",
+          "color": "",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/miele_brl?",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/siemens/_/N-1z13zg7",
+          "label": "Siemens",
+          "qty": "19",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/indesit/_/N-1z13y6q",
+          "label": "Indesit",
+          "qty": "14",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/hotpoint/_/N-1z13yrm",
+          "label": "Hotpoint",
+          "qty": "13",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/smeg/_/N-1z13zvu",
+          "label": "Smeg",
+          "qty": "11",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/aeg/_/N-1z13xop",
+          "label": "AEG",
+          "qty": "11",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/zanussi/_/N-1z13yzi",
+          "label": "Zanussi",
+          "qty": "10",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/neff/_/N-1z13ypo",
+          "label": "Neff",
+          "qty": "8",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/hoover/_/N-1z0l6mz",
+          "label": "Hoover",
+          "qty": "8",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/john-lewis/_/N-1z141il",
+          "label": "John Lewis",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003250509alt3?",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/fisher-paykel/_/N-1z13xoo",
+          "label": "Fisher \u0026 Paykel",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/beko/_/N-1z0qjig",
+          "label": "Beko",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/gorenje/_/N-1z0nc9h",
+          "label": "Gorenje",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/kitchenaid/_/N-1z1416b",
+          "label": "KitchenAid",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/samsung/_/N-1z13z13",
+          "label": "Samsung",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "dishwashersize",
+      "name": "Dishwasher Size",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/size\u003dcompact/_/N-1z0ri83",
+          "label": "Compact",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/size\u003ddrawer/_/N-1z002q6",
+          "label": "Drawer",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/size\u003dfull/_/N-1z0rie6",
+          "label": "Full",
+          "qty": "124",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/size\u003dslimline/_/N-1z0rni3",
+          "label": "Slimline",
+          "qty": "37",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "childSKUs.basicColor",
+      "name": "Colour",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/black/_/N-1z141fu",
+          "label": "Black",
+          "qty": "23",
+          "color": "Black",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_black",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/brown/_/N-1z14184",
+          "label": "Brown",
+          "qty": "1",
+          "color": "Brown",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_brown",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/grey/_/N-1z14178",
+          "label": "Grey",
+          "qty": "4",
+          "color": "Grey",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_grey",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/metallics/_/N-1z141b3",
+          "label": "Metallics",
+          "qty": "22",
+          "color": "Metallics",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_metallic2",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/red/_/N-1z141fs",
+          "label": "Red",
+          "qty": "2",
+          "color": "Red",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_red",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/silver/_/N-1z141fz",
+          "label": "Silver",
+          "qty": "48",
+          "color": "Silver",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_silver",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/white/_/N-1z141c2",
+          "label": "White",
+          "qty": "76",
+          "color": "White",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/subnav_swatch_white",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "cutlerybasket",
+      "name": "Cutlery Holder",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/basket/_/N-1z00fr1",
+          "label": "Basket",
+          "qty": "94",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/basket-tray/_/N-1z00fqr",
+          "label": "Basket \u0026 Tray",
+          "qty": "16",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/tray/_/N-1z00fqs",
+          "label": "Tray",
+          "qty": "60",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "features.displayName",
+      "name": "Feature",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/smart/_/N-1z0h07w",
+          "label": "Smart",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/child-lock/_/N-1z13fxf",
+          "label": "Child Lock",
+          "qty": "37",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/delicate-wash/_/N-1z13j09",
+          "label": "Delicate Wash",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/digital-display/_/N-1z13j08",
+          "label": "Digital Display",
+          "qty": "100",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/glass-care/_/N-1z13j1y",
+          "label": "Glass Care",
+          "qty": "61",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/quick-wash/_/N-1z13j1z",
+          "label": "Quick Wash",
+          "qty": "130",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/quiet-mark/_/N-1z13jb3",
+          "label": "Quiet Mark",
+          "qty": "21",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/slimline/_/N-1z0cpi1",
+          "label": "Slimline",
+          "qty": "18",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/time-remaining-indicator/_/N-1z13j21",
+          "label": "Time Remaining Indicator",
+          "qty": "82",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/timer-delay/_/N-1z13j20",
+          "label": "Timer Delay",
+          "qty": "100",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "pimProduct.energyRating.domesticAppliance",
+      "name": "Energy Rating",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/a/_/N-1z0sv8z",
+          "label": "A",
+          "qty": "11",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/a+/_/N-1z0svus",
+          "label": "A+",
+          "qty": "67",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/a++/_/N-1z0sw83",
+          "label": "A++",
+          "qty": "67",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/a+++/_/N-1z0svjn",
+          "label": "A+++",
+          "qty": "36",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "freeGuarantees",
+      "name": "Guarantee",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/2-year-guarantee-included/_/N-1yzvi2y",
+          "label": "2 year guarantee included",
+          "qty": "170",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/3-year-guarantee-included/_/N-1yzvi32",
+          "label": "3 year guarantee included",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/5-year-guarantee-included/_/N-1yzvi2z",
+          "label": "5 year guarantee included",
+          "qty": "5",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "productRating.averageRating",
+      "name": "Avg. Review Rating",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/4+/_/N-6qpe",
+          "label": "4+",
+          "qty": "76",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/3-4/_/N-vfj",
+          "label": "3-4",
+          "qty": "21",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/2-3/_/N-vfi",
+          "label": "2-3",
+          "qty": "8",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/1-2/_/N-vfh",
+          "label": "1-2",
+          "qty": "5",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "placesettings",
+      "name": "Place Settings",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/10/_/N-1z0rni2",
+          "label": "10",
+          "qty": "24",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/11/_/N-1yzyvm3",
+          "label": "11",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/12/_/N-1z0rn0h",
+          "label": "12",
+          "qty": "17",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/13/_/N-1z0rib7",
+          "label": "13",
+          "qty": "58",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/14/_/N-1z0rgi0",
+          "label": "14",
+          "qty": "46",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/15/_/N-1z0rie5",
+          "label": "15",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/16/_/N-1z0hngt",
+          "label": "16",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/6/_/N-1z0ri84",
+          "label": "6",
+          "qty": "6",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/7/_/N-1z05qko",
+          "label": "7",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/9/_/N-1z0rgck",
+          "label": "9",
+          "qty": "16",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "childSKUs.hideOutOfStock",
+      "name": "Stock Availability",
+      "type": "Multi",
+      "tooltip": "",
+      "details": [
+        {
+          "facetId": "/show-in-stock-items-only/_/N-1z0wxdt",
+          "label": "Show in stock items only",
+          "qty": "null",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "childSKUs.deliveryGroup",
+      "name": "Delivery Options",
+      "type": "Multi",
+      "tooltip": "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eStandard:\u003c/strong\u003e Delivery usually within 3 - 7 working days, depending on product type. Free on orders of \u0026pound;50+. For larger items, pay a little extra to choose a 2 or 4-hour slot\u003c/li\u003e      \t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eNext or named day:\u003c/strong\u003e Chargeable UK delivery for smaller items when you order before 8pm - pre-10.30am also available\u003c/li\u003e      \t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eExpress:\u003c/strong\u003e Chargeable deliver within 2 working days; choose am or pm slot\u003c/li\u003e \t\t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eClick \u0026amp; collect:\u003c/strong\u003e Order before 8pm and pick up next day from John Lewis and Waitrose shops\u003c/li\u003e \t\t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eCollect+:\u003c/strong\u003e Collect from a local convenience store for a small charge\u003c/li\u003e\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eBy approved supplier:\u003c/strong\u003e Delivery direct to you by supplier or their carrier; lead times will vary\u003c/li\u003e \t\t\t\t\t\t\t\t\u003cli\u003e\u003cstrong\u003eInternational:\u003c/strong\u003e Products we can ship abroad for you\u003c/li\u003e\u003c/ul\u003e",
+      "details": [
+        {
+          "facetId": "/standard-uk-delivery/_/N-1z0ktrh",
+          "label": "Standard UK delivery",
+          "qty": "46",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/next-day/_/N-1z0doyb",
+          "label": "Next Day",
+          "qty": "38",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/by-approved-supplier/_/N-1z0ktre",
+          "label": "By approved supplier",
+          "qty": "23",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    }
+  ],
+  "results": 181,
+  "pagesAvailable": 10,
+  "crumbs": [
+    {
+      "type": "SEARCH",
+      "displayName": "Search results \"dishwasher\"",
+      "clickable": "false"
+    }
+  ],
+  "dynamicBannerId": "",
+  "seoBannerId": "",
+  "redirectUrl": "",
+  "staticLinks": []
+}

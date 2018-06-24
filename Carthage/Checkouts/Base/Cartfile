@@ -1,0 +1,2 @@
+github "niceagency/Log" ~> 3.1
+github "ashleymills/Reachability.swift" ~> 4.1

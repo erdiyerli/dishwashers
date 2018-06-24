@@ -1,0 +1,4 @@
+framework module Log {
+    header "Log-Swift.h"
+    requires objc
+}
