@@ -143,6 +143,25 @@ class ProductListModuleTests: XCTestCase {
             XCTAssertTrue(mockPresenter.viewDidLoadCalled)
         }
     }
+
+    func testViewDidSelectItem() {
+
+        let exp = expectation(description: "")
+
+        let view = ProductListViewController(nibName: nil, bundle: nil)
+        let mockPresenter = MockProductListPresenter(interactor: ProductListInteractor(), expectation: exp )
+
+        view.presenter = mockPresenter
+
+        let product = Product(id: "1")
+        let searchResult = SearchResult(products: [product], results: 1)
+        mockPresenter.didFinishLoading(searchResult: searchResult)
+
+        view.collectionView(UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout()), didSelectItemAt: IndexPath.init(item: 0, section: 0))
+
+        XCTAssertEqual(mockPresenter.selectedProduct?.id, product.id)
+        wait(for: [exp], timeout: 2.0)
+    }
     
 }
 
@@ -150,6 +169,13 @@ class ProductListModuleTests: XCTestCase {
 private extension Product {
     init() {
         self.id = ""
+        self.image = ""
+        self.title = ""
+        self.price = ProductPrice(was: "", then1: "", then2: "", now: "", currency: "")
+    }
+
+    init(id: String) {
+        self.id = id
         self.image = ""
         self.title = ""
         self.price = ProductPrice(was: "", then1: "", then2: "", now: "", currency: "")

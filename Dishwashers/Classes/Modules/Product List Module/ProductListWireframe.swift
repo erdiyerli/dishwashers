@@ -35,6 +35,10 @@ final class ProductListWireframe: BaseWireframe {
 
 extension ProductListWireframe: ProductListWireframeInterface {
     func navigate(to option: ProductListWireframeNavigation) {
-
+        switch option {
+        case .productDetail(let product):
+            let productDetail = ProductDetailWireframe(navigationController: navigationController)
+            productDetail.show(product: product, with: .push, animated: true)
+        }
     }
 }
