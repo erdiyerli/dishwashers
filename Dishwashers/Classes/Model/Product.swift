@@ -39,8 +39,14 @@ struct Product: Decodable {
 extension Product {
 
     func producDetail()-> Resource<ProductDetail> {
+        let queries = [ URLQueryItem(name: "key", value: "Wu1Xqn3vNrd1p7hqkvB6hEu0G9OrsYGb") ]
         return Resource(endpoint: DishwashersAPI.endpoints.products(productID: id).url,
-                        parse: { (data) -> (Result<ProductDetail>) in
+                        method: .get(nil),
+                        query: queries,
+                        headerProvider: nil,
+                        cancellationPolicy: .none,
+                        errorResponseHandler: nil,
+                parse: { (data) -> (Result<ProductDetail>) in
             do {
                 let decoder = JSONDecoder()
                 let productDetail = try decoder.decode(ProductDetail.self, from: data)

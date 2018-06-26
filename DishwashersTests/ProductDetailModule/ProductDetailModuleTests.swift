@@ -20,17 +20,6 @@ class ProductDetailModuleTests: XCTestCase {
         super.tearDown()
     }
 
-    func testProductDetailView() {
-
-        let mockPresenter = MockProductDetailPresenter()
-        let view = ProductDetailViewController(nibName: nil, bundle: nil)
-        view.presenter = mockPresenter
-
-        _ = view.view
-
-        XCTAssertTrue(mockPresenter.viewDidLoadCalled)
-    }
-
     func testProductDetailPresenter() {
 
         let view = MockProductDetailView()
@@ -49,10 +38,66 @@ class ProductDetailModuleTests: XCTestCase {
 
         presenter.didFailLoadingProductDetail(with: error)
 
-        guard case ViewState<Any>.error(_)? = view.state else {
+        guard case ViewState<ProductDetailViewModel>.error(_)? = view.state else {
             XCTFail()
             return
         }
+
+    }
+
+    func testProductDetailPresenterPrepareViewModel() {
+
+        let bundle = Bundle(for: ProductDetailModuleTests.self)
+        var productDetail: ProductDetail!
+
+        guard let url = bundle.url(forResource: "productDetail", withExtension: "json") else {
+            XCTFail()
+            return
+        }
+
+        do {
+            let productDetailData = try Data.init(contentsOf: url)
+            let decoder = JSONDecoder()
+            productDetail = try decoder.decode(ProductDetail.self, from: productDetailData)
+        } catch {
+            XCTFail()
+        }
+
+        let view = MockProductDetailView()
+        let wireframe = MockProductDetailWireFrame()
+        let mockInteractor = MockProductDetailInteractor()
+
+        let product = Product(id: "5")
+
+        let presenter = ProductDetailPresenter(with: product, wireFrame: wireframe, view: view, interactor: mockInteractor)
+
+
+        /// test lanscape
+        presenter.viewOrientationDidChange(orientation: .landscapeLeft)
+
+        presenter.didFinishLoading(productDetail: productDetail)
+
+        guard case ViewState<ProductDetailViewModel>.success(let landscapeModel)? = view.state else {
+            XCTFail()
+            return
+        }
+
+        XCTAssertEqual(landscapeModel.masterSections.count, 4)
+        XCTAssertEqual(landscapeModel.detailSections.count, 1)
+
+        presenter.viewOrientationDidChange(orientation: .portrait)
+
+        guard case ViewState<ProductDetailViewModel>.success(let portraitModel)? = view.state else {
+            XCTFail()
+            return
+        }
+
+        XCTAssertEqual(portraitModel.masterSections.count, 4)
+        XCTAssertEqual(portraitModel.detailSections.count, 0)
+
+        presenter.viewDidTapBackButton()
+
+        XCTAssertTrue(wireframe.popViewControllerCalled)
 
     }
 
@@ -130,16 +175,33 @@ private extension Product {
     }
 }
 
-class MockProductDetailView: ProductDetailViewInterface {
-    private(set) var state: ViewState<Any>?
+class MockProductDetailWireFrame: WireframeInterface {
 
-    func update(state: ViewState<Any>) {
+    private(set) var popViewControllerCalled = false
+
+    func popFromNavigationController(animated: Bool) {
+        popViewControllerCalled = true
+    }
+
+    func dismiss(animated: Bool, completion: (() -> Void)?) {
+    }
+}
+
+class MockProductDetailView: UIViewController, ProductDetailViewInterface {
+    private(set) var state: ViewState<ProductDetailViewModel>?
+
+    var presenter: ProductDetailPresenterInterface?
+
+    func update(state: ViewState<ProductDetailViewModel>) {
         self.state = state
     }
 }
 
 class MockProductDetailPresenter: ProductDetailPresenterInterface, ProductDetailInteractorOutput {
+
     private(set) var viewDidLoadCalled = false
+    private(set) var viewDidTapBackButtonCalled = false
+
     private(set) var error: Error?
     private(set) var productDetail: ProductDetail?
     private(set) var expectation: XCTestExpectation?
@@ -152,6 +214,14 @@ class MockProductDetailPresenter: ProductDetailPresenterInterface, ProductDetail
 
     func viewDidLoad() {
         viewDidLoadCalled = true
+    }
+
+    func viewDidTapBackButton() {
+        viewDidTapBackButtonCalled = true
+    }
+
+    func viewOrientationDidChange(orientation: UIDeviceOrientation) {
+
     }
 
     func didFailLoadingProductDetail(with error: Error) {

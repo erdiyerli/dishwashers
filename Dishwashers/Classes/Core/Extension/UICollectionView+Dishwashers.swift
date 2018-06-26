@@ -24,4 +24,17 @@ extension UICollectionView {
             self.register(aClass, forCellWithReuseIdentifier: String(describing: aClass.self))
         }
     }
+
+    func registerSupplementaryView<T: UICollectionReusableView>(viewClass: T.Type, ofKind: String) {
+        let id = String(describing: T.self)
+        self.register(T.self, forSupplementaryViewOfKind: ofKind, withReuseIdentifier: id)
+    }
+
+    func dequeueSupplementaryView<T: UICollectionReusableView>(at indexPath: IndexPath, ofKind: String) -> T {
+        let id = String(describing: T.self)
+        guard let view = self.dequeueReusableSupplementaryView(ofKind: ofKind, withReuseIdentifier: id, for: indexPath) as? T else {
+            fatalError()
+        }
+        return view
+    }
 }

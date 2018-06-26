@@ -10,6 +10,8 @@ import UIKit
 
 class ProductDetailWireframe: BaseWireframe {
 
+    private let storyboard = UIStoryboard(name: "ProductDetail", bundle: nil)
+
     private func configure(with product: Product, view: ProductDetailViewController) {
         let interactor = ProductDetailInteractor()
         let presenter = ProductDetailPresenter(with: product, wireFrame: self, view: view, interactor: interactor)
@@ -18,7 +20,7 @@ class ProductDetailWireframe: BaseWireframe {
     }
 
     func show(product: Product, with transition: Transition, animated: Bool) {
-        let view = ProductDetailViewController(nibName: nil, bundle: nil)
+        let view = storyboard.instantiateInitialViewController() as! ProductDetailViewController
         configure(with: product, view: view)
         show(view, with: transition, animated: animated)
     }

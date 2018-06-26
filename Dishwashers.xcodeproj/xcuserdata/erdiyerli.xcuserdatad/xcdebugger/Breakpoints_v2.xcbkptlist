@@ -2,4 +2,64 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DishwashersTests/ProductDetailModule/ProductDetailCollectionViewDataSourceTests.swift"
+            timestampString = "551743840.9724309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "testCellAtIndexPath()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DishwashersTests.ProductDetailCollectionViewDataSourceTests.testCellAtIndexPath() -&gt; ()"
+                  moduleName = "DishwashersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erdiyerli/work/doubletap/dishwashers/DishwashersTests/ProductDetailModule/ProductDetailCollectionViewDataSourceTests.swift"
+                  timestampString = "551741450.604041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "3506">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in DishwashersTests.ProductDetailCollectionViewDataSourceTests.testCellAtIndexPath() -&gt; ()"
+                  moduleName = "DishwashersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erdiyerli/work/doubletap/dishwashers/DishwashersTests/ProductDetailModule/ProductDetailCollectionViewDataSourceTests.swift"
+                  timestampString = "551741450.6077549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

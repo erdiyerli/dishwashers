@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4Cl-q1-zJQ">
+    <device id="ipad9_7" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Product Detail View Controller-->
+        <scene sceneID="gUx-Zf-TTO">
+            <objects>
+                <viewController id="4Cl-q1-zJQ" customClass="ProductDetailViewController" customModule="Dishwashers" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vfP-jt-Y2s">
+                        <rect key="frame" x="0.0" y="0.0" width="1024" height="768"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="74O-C6-cbc">
+                                <rect key="frame" x="0.0" y="0.0" width="649" height="768"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="52J-Bg-auK">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="LZm-fl-UFM">
+                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                            <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </view>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="QMn-AE-6ry">
+                                <rect key="frame" x="650" y="0.0" width="374" height="768"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="7D4-nk-e9A"/>
+                                    <constraint firstAttribute="height" constant="50" id="Q00-Nr-E9I"/>
+                                </constraints>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Br4-wt-14e">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="940-2b-kPU">
+                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                            <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </view>
+                                    </collectionViewCell>
+                                </cells>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="7D4-nk-e9A"/>
+                                        <exclude reference="Q00-Nr-E9I"/>
+                                    </mask>
+                                </variation>
+                                <variation key="widthClass=compact">
+                                    <mask key="constraints">
+                                        <include reference="7D4-nk-e9A"/>
+                                        <include reference="Q00-Nr-E9I"/>
+                                    </mask>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=compact" hidden="YES"/>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="top" secondItem="vfP-jt-Y2s" secondAttribute="top" id="53K-VI-oQc"/>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="width" secondItem="vfP-jt-Y2s" secondAttribute="width" multiplier="0.634" id="6ls-3N-eDs"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="leading" secondItem="74O-C6-cbc" secondAttribute="trailing" id="ETI-al-mXV"/>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="leading" secondItem="pyb-LV-sqf" secondAttribute="leading" id="IZh-aJ-wO4"/>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="top" secondItem="vfP-jt-Y2s" secondAttribute="top" id="KLn-RP-cRa"/>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="leading" secondItem="pyb-LV-sqf" secondAttribute="leading" id="KQv-cK-ldv"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="bottom" secondItem="pyb-LV-sqf" secondAttribute="bottom" id="Kde-1b-ydW"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="leading" secondItem="74O-C6-cbc" secondAttribute="trailing" constant="1" id="KeD-te-kYw"/>
+                            <constraint firstItem="pyb-LV-sqf" firstAttribute="trailing" secondItem="74O-C6-cbc" secondAttribute="trailing" id="TuI-KW-met"/>
+                            <constraint firstItem="pyb-LV-sqf" firstAttribute="bottom" secondItem="74O-C6-cbc" secondAttribute="bottom" id="Zcq-ax-w3N"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="trailing" secondItem="pyb-LV-sqf" secondAttribute="trailing" id="hhZ-97-pCq"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="top" secondItem="vfP-jt-Y2s" secondAttribute="top" id="mCl-fW-Qxc"/>
+                            <constraint firstItem="74O-C6-cbc" firstAttribute="bottom" secondItem="pyb-LV-sqf" secondAttribute="bottom" id="rj4-Bc-xPX"/>
+                            <constraint firstItem="QMn-AE-6ry" firstAttribute="top" secondItem="vfP-jt-Y2s" secondAttribute="top" id="ys8-CJ-WCv"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="pyb-LV-sqf"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="53K-VI-oQc"/>
+                                <exclude reference="6ls-3N-eDs"/>
+                                <exclude reference="IZh-aJ-wO4"/>
+                                <exclude reference="KLn-RP-cRa"/>
+                                <exclude reference="KQv-cK-ldv"/>
+                                <exclude reference="rj4-Bc-xPX"/>
+                                <exclude reference="TuI-KW-met"/>
+                                <exclude reference="Zcq-ax-w3N"/>
+                                <exclude reference="ETI-al-mXV"/>
+                                <exclude reference="Kde-1b-ydW"/>
+                                <exclude reference="KeD-te-kYw"/>
+                                <exclude reference="hhZ-97-pCq"/>
+                                <exclude reference="mCl-fW-Qxc"/>
+                                <exclude reference="ys8-CJ-WCv"/>
+                            </mask>
+                        </variation>
+                        <variation key="widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="IZh-aJ-wO4"/>
+                                <include reference="KLn-RP-cRa"/>
+                                <include reference="TuI-KW-met"/>
+                                <include reference="Zcq-ax-w3N"/>
+                                <include reference="ETI-al-mXV"/>
+                                <include reference="mCl-fW-Qxc"/>
+                            </mask>
+                        </variation>
+                        <variation key="widthClass=regular">
+                            <mask key="constraints">
+                                <include reference="53K-VI-oQc"/>
+                                <include reference="6ls-3N-eDs"/>
+                                <include reference="KQv-cK-ldv"/>
+                                <include reference="rj4-Bc-xPX"/>
+                                <include reference="Kde-1b-ydW"/>
+                                <include reference="KeD-te-kYw"/>
+                                <include reference="hhZ-97-pCq"/>
+                                <include reference="ys8-CJ-WCv"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="detailCollectionView" destination="QMn-AE-6ry" id="zFp-bm-AWg"/>
+                        <outlet property="masterCollectionView" destination="74O-C6-cbc" id="s4L-PN-8Ah"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Wu2-VK-nv5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-314.39999999999998" y="-294.82758620689657"/>
+        </scene>
+    </scenes>
+</document>
